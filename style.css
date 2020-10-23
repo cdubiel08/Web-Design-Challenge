@@ -1,0 +1,44 @@
+body {
+    background-color: lightgrey;
+}
+
+p {
+    style: inline;
+}
+
+h1 {
+    font-size: 40px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+
+.whiteContainer {
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 5px;
+    padding: 20px;
+    line-height: 2;
+}
+
+.whiteContainer p{
+    font-size: 18px;
+}
+
+.imgContainer {
+    max-width: 40%;
+    float: left;
+    margin: 2%;
+}
+
+.imgGrid {
+    max-width: 45%;
+    padding: 1px;
+    margin: 1px
+}
+
+.imgComp {
+    padding: 10px;
+    margin: 10px;
+}
+
